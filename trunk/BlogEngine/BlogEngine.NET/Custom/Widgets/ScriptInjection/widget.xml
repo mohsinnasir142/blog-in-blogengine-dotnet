@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<metadata>
+    <id>ScriptInjection</id>
+    <description>Adds javascript/HTML code for ads from any advertisement(can be adsense or any other network) network to your Blog Engine widget area,can use the same widget for adding code from google webelements like news or transalate elements.</description>
+    <authors>Santosh Padire</authors>
+    <website>http://www.reviewresults.in/reviewresults/post/2012/07/06/ScriptInjection-widget-for-blogengine.aspx</website>
+    <version>3.0.0.1</version>
+    <iconurl>http://dnbe.net/v01/images/ScriptInjection.jpg</iconurl>
+</metadata>

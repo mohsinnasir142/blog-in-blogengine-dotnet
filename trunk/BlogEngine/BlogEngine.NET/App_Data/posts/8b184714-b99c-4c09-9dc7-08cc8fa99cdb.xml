@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<post>
+  <author>admin</author>
+  <title>difference b/w visual studio 2012  and visual studio 2013?</title>
+  <description>difference b/w visual studio 2012  and visual studio 2013?</description>
+  <content>Is there is any difference b/w them??</content>
+  <ispublished>True</ispublished>
+  <isdeleted>False</isdeleted>
+  <iscommentsenabled>True</iscommentsenabled>
+  <pubDate>2014-08-26 17:58:00</pubDate>
+  <lastModified>2014-08-26 18:00:02</lastModified>
+  <raters>1</raters>
+  <rating>3</rating>
+  <slug>difference b/w visual studio 2012  and visual studio 2013?</slug>
+  <tags />
+  <comments>
+    <comment id="fae35709-5c0b-44a0-91e5-55d1bcc1b773" parentid="00000000-0000-0000-0000-000000000000" approved="True" spam="False" deleted="False">
+      <date>2014-08-26 18:00:02</date>
+      <author>Mohsin</author>
+      <email>test@gmail.com</email>
+      <country />
+      <ip>::1</ip>
+      <avatar />
+      <content>Hi!
+vs2013 has built-In scaffolding option for EF.</content>
+    </comment>
+  </comments>
+  <categories />
+  <notifications>
+    <email>test@gmail.com</email>
+  </notifications>
+</post>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<post>
+  <author>admin</author>
+  <title>Welcome to Machinery's blog</title>
+  <description>The description is used as the meta description as well as shown in the related posts. It is recommended that you write a description, but not mandatory</description>
+  <content>Dear admin, welcome to you new blog! &lt;br/&gt;&lt;br/&gt;Log in &lt;a href="/Machinery/Account/login.aspx"&gt;here&lt;/a&gt; to start using it. &lt;br/&gt;&lt;br/&gt;Happy blogging!</content>
+  <ispublished>True</ispublished>
+  <isdeleted>False</isdeleted>
+  <iscommentsenabled>True</iscommentsenabled>
+  <pubDate>2014-09-03 14:57:54</pubDate>
+  <lastModified>2014-09-03 14:57:54</lastModified>
+  <raters>6</raters>
+  <rating>4.366666</rating>
+  <slug>Welcome-to-Machinerys-blog</slug>
+  <tags>
+    <tag>blog</tag>
+    <tag>welcome</tag>
+  </tags>
+  <comments>
+    <comment id="1aca19f5-5d42-4435-88c5-e1adca78771d" parentid="00000000-0000-0000-0000-000000000000" approved="True" spam="False" deleted="False">
+      <date>2014-09-03 15:06:15</date>
+      <author>test</author>
+      <email>test@ee.dd</email>
+      <country />
+      <ip>::1</ip>
+      <moderatedby>Rule:authenticated</moderatedby>
+      <avatar />
+      <content>ddddddd</content>
+    </comment>
+  </comments>
+  <categories>
+    <category>39595b6b-f01f-427e-bf2d-bb23aef8a451</category>
+  </categories>
+  <notifications />
+</post>

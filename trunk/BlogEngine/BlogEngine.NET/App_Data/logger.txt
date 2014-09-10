@@ -1,0 +1,132 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 8/4/2014 4:55:11 PM
+QuickNotes.Qnotes.SaveQuickPost(): 0bff71f9-b608-4bb3-b57e-8cbf10db2197 : asdasd
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 8/4/2014 4:55:47 PM
+QuickNotes.Qnotes.SaveQuickPost(): d69b30b4-5e6d-481a-ae56-4097164297d3 : Add post
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 8/26/2014 5:55:53 PM
+Error checking stopforumspam.com: The remote server returned an error: (503) Server Unavailable.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 8/26/2014 5:55:53 PM
+Error sending email in SendMailMessage:  Failure sending mail. The remote name could not be resolved: 'mail.example.com'
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 8/26/2014 5:58:26 PM
+QuickNotes.Qnotes.SaveQuickPost(): 8b184714-b99c-4c09-9dc7-08cc8fa99cdb : difference b/w visual studio 2012  and visual studio 2013?
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 8/26/2014 6:00:03 PM
+Error checking stopforumspam.com: The remote server returned an error: (503) Server Unavailable.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 8/26/2014 6:00:03 PM
+Error sending email in SendMailMessage:  Failure sending mail. The remote name could not be resolved: 'mail.example.com'
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/3/2014 11:45:54 AM
+Installed package FaceBookPopOut by admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/3/2014 11:46:31 AM
+Installed package ScriptInjection by admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/3/2014 11:46:41 AM
+Uninstalled package FaceBookPopOut: installed package files removed. 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/3/2014 11:46:41 AM
+Uninstalled package FaceBookPopOut: package records removed. 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/3/2014 11:46:43 AM
+Uninstalled package FaceBookPopOut: NuGet file removed. 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/3/2014 11:46:43 AM
+Uninstalled package FaceBookPopOut by admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/3/2014 11:46:46 AM
+Installed package FaceBookPopOut by admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/3/2014 4:17:40 PM
+Installed package Picasa by admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/3/2014 4:17:52 PM
+Installed package Jcarousel by admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/3/2014 4:20:48 PM
+rtur.net.CarouselAdmin.SaveItem: Access to the path 'C:\Users\mohsin\Desktop\BlogEngine.NET 3.0 (source)\BlogEngine\BlogEngine.NET\App_Data\files\jcarousel\test Carousel' is denied.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/3/2014 4:21:05 PM
+rtur.net.CarouselAdmin.SaveItem: Access to the path 'C:\Users\mohsin\Desktop\BlogEngine.NET 3.0 (source)\BlogEngine\BlogEngine.NET\App_Data\files\jcarousel\test Carousel' is denied.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/3/2014 5:23:40 PM
+Installed package PrettyPhoto2 by admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/3/2014 5:28:17 PM
+rtur.net.CarouselAdmin.SaveItem: Access to the path 'C:\Users\mohsin\Desktop\BlogEngine.NET 3.0 (source)\BlogEngine\BlogEngine.NET\App_Data\files\jcarousel\newAl' is denied.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/3/2014 5:56:26 PM
+Installed package SCFacebook by admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/3/2014 6:13:06 PM
+Installed package MoveToTop by admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/3/2014 6:16:33 PM
+Installed package MarkdownFormatter by admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/9/2014 4:01:13 PM
+Uninstalled package ScriptInjection: installed package files removed. 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/9/2014 4:01:13 PM
+Uninstalled package ScriptInjection: package records removed. 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/9/2014 4:01:15 PM
+Uninstalled package ScriptInjection: NuGet file removed. 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/9/2014 4:01:15 PM
+Uninstalled package ScriptInjection by admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/9/2014 4:01:18 PM
+Installed package ScriptInjection by admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/9/2014 4:10:41 PM
+BlogEngine.Core.Packaging.Installer.InstallPackage(SimpleBlog): The file 'C:\Users\mohsin\Desktop\BlogEngine.NET 3.0 (source)\BlogEngine\BlogEngine.NET\Custom\Themes\SimpleBlog\img\BtnSearch.png' already exists.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/9/2014 4:10:41 PM
+Can not find any files installed for package: SimpleBlog
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/9/2014 4:10:41 PM
+Installed package SimpleBlog by admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/9/2014 4:10:42 PM
+Installed package SimpleBlog by admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/9/2014 4:10:42 PM
+Installed package SimpleBlog by admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/9/2014 4:11:00 PM
+Uninstalled package SimpleBlog: installed package files removed. 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/9/2014 4:11:00 PM
+Uninstalled package SimpleBlog: package records removed. 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/9/2014 4:11:03 PM
+Uninstalled package SimpleBlog: NuGet file removed. 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/9/2014 4:11:03 PM
+Uninstalled package SimpleBlog by admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/9/2014 4:11:05 PM
+Installed package SimpleBlog by admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/9/2014 4:11:24 PM
+Uninstalled package SimpleBlog: installed package files removed. 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/9/2014 4:11:24 PM
+Uninstalled package SimpleBlog: package records removed. 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/9/2014 4:11:26 PM
+Uninstalled package SimpleBlog: NuGet file removed. 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/9/2014 4:11:26 PM
+Uninstalled package SimpleBlog by admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/9/2014 4:12:16 PM
+Installed package SimpleBlog by admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 9/9/2014 4:31:11 PM
+QuickNotes.Qnotes.SaveQuickPost(): 0f123d75-dd80-4c31-944b-b5a9ddc2a2eb : spare parts 

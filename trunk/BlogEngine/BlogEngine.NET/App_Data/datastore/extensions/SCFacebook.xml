@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ManagedExtension xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SCFacebook">
+  <AdminPage />
+  <Author>&lt;a href="http://am22tech.com"&gt;Am22tech.com&lt;/a&gt;</Author>
+  <Description>Social Card : Facebook adds open graph tag to blogengine posts and pages. Also, it will search the first image in the post and show it as a thumbnail when sharing on Facebook</Description>
+  <Enabled>true</Enabled>
+  <Priority>0</Priority>
+  <SubBlogEnabled>true</SubBlogEnabled>
+  <Settings>
+    <Delimiter>44</Delimiter>
+    <Help>&lt;p&gt;Insert your Facebook username, it could be a numeric o a text string.&lt;br/&gt;It is in your &lt;a href"//facebook.com/me" target="_blank" class="btn"&gt;profile url&lt;/a&gt;&lt;p&gt;</Help>
+    <Hidden>false</Hidden>
+    <Index>0</Index>
+    <IsScalar>false</IsScalar>
+    <KeyField>facebookID</KeyField>
+    <Name>SCFacebook</Name>
+    <Parameters>
+      <KeyField>false</KeyField>
+      <Label>Facebook User ID</Label>
+      <MaxLength>250</MaxLength>
+      <Name>facebookID</Name>
+      <ParamType>String</ParamType>
+      <Required>true</Required>
+      <SelectedValue />
+      <Values>mohsin.nasir3</Values>
+      <Values>https://www.facebook.com/mohsin.nasir3</Values>
+    </Parameters>
+    <ShowAdd>true</ShowAdd>
+    <ShowDelete>true</ShowDelete>
+    <ShowEdit>true</ShowEdit>
+    <BlogId>96d5b379-7e1d-4dac-a6ba-1e50db561b04</BlogId>
+  </Settings>
+  <ShowSettings>true</ShowSettings>
+  <Version>3.0.0.1</Version>
+</ManagedExtension>

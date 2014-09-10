@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ManagedExtension xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="FaceBookPopOut">
+  <AdminPage />
+  <Author>Infofru.com</Author>
+  <Description>Creates a Floating FaceBook popout like button widget.</Description>
+  <Enabled>true</Enabled>
+  <Priority>1</Priority>
+  <SubBlogEnabled>true</SubBlogEnabled>
+  <Settings>
+    <Delimiter>44</Delimiter>
+    <Help />
+    <Hidden>false</Hidden>
+    <Index>0</Index>
+    <IsScalar>true</IsScalar>
+    <KeyField>FBClient</KeyField>
+    <Name>FaceBookPopOut</Name>
+    <Parameters>
+      <KeyField>true</KeyField>
+      <Label>FaceBook URL</Label>
+      <MaxLength>2000</MaxLength>
+      <Name>FBClient</Name>
+      <ParamType>String</ParamType>
+      <Required>true</Required>
+      <SelectedValue />
+      <Values>www.facebook.com/kamztech</Values>
+    </Parameters>
+    <Parameters>
+      <KeyField>true</KeyField>
+      <Label>Floating Image Path</Label>
+      <MaxLength>2000</MaxLength>
+      <Name>FBImagePath</Name>
+      <ParamType>String</ParamType>
+      <Required>true</Required>
+      <SelectedValue />
+      <Values>custom/Extensions/FaceBookPopOut/FBFloat.png</Values>
+    </Parameters>
+    <ShowAdd>true</ShowAdd>
+    <ShowDelete>true</ShowDelete>
+    <ShowEdit>true</ShowEdit>
+    <BlogId>96d5b379-7e1d-4dac-a6ba-1e50db561b04</BlogId>
+  </Settings>
+  <ShowSettings>true</ShowSettings>
+  <Version>3.0.0.1</Version>
+</ManagedExtension>
