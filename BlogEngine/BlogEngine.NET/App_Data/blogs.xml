@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<blogs>
+    <item id="cf7391ff-e650-42ba-be99-ea41d4c90102" name="spareparts" hostName="" isAnyTextBeforeHostnameAccepted="True" storageContainerName="spareparts" virtualPath="~/spareparts" isPrimary="False" isActive="True" isSiteAggregation="False" />
+    <item id="d9ddf03e-e7cc-418e-b31c-c597595e1cb2" name="Machinery" hostName="" isAnyTextBeforeHostnameAccepted="False" storageContainerName="machinery" virtualPath="~/machinery" isPrimary="False" isActive="True" isSiteAggregation="False" />
+    <item id="96d5b379-7e1d-4dac-a6ba-1e50db561b04" name="Primary" hostName="" isAnyTextBeforeHostnameAccepted="False" storageContainerName="" virtualPath="~/" isPrimary="True" isActive="True" isSiteAggregation="False" />
+</blogs>

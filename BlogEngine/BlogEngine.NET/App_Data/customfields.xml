@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<CustomFields>
+    <item customtype="THEME" objectid="Standard" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="Logo Address" value="Custom/Themes/Standard/images/logo.png" attribute="" />
+    <item customtype="THEME" objectid="Standard" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="Facebook account" value="BlogEngine.NET" attribute="" />
+    <item customtype="THEME" objectid="Standard" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="Twitter account" value="blogenginenet" attribute="" />
+    <item customtype="THEME" objectid="Standard" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="Google plus" value="u/0" attribute="" />
+    <item customtype="THEME" objectid="Standard" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="Your RSS" value="syndication.axd" attribute="" />
+    <item customtype="THEME" objectid="SimpleBlog" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="Theme Structure" value="default-theme default-header fixnav banner responsive fade" attribute="" />
+    <item customtype="THEME" objectid="SimpleBlog" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="Facebook account" value="www.facebook.com/kamztech" attribute="" />
+    <item customtype="THEME" objectid="SimpleBlog" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="Twitter account" value="www.twitter.com/kamztech" attribute="" />
+    <item customtype="THEME" objectid="SimpleBlog" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="Google+ account" value="www.google.com" attribute="" />
+    <item customtype="THEME" objectid="SimpleBlog" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="RSS Feed" value="syndication.axd" attribute="" />
+    <item customtype="THEME" objectid="SimpleBlog" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="YouTube account" value="www.youtube.com/kamztech" attribute="" />
+    <item customtype="THEME" objectid="SimpleBlog" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="Linkedin account" value="www.linkedIn.com/kamztech" attribute="" />
+    <item customtype="THEME" objectid="SimpleBlog" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="Instagram account" value="#" attribute="" />
+    <item customtype="THEME" objectid="SimpleBlog" blogid="96d5b379-7e1d-4dac-a6ba-1e50db561b04" key="github account" value="#" attribute="" />
+</CustomFields>

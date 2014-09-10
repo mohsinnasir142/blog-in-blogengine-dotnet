@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<CustomFields>
+    <item customtype="THEME" objectid="Standard" blogid="d9ddf03e-e7cc-418e-b31c-c597595e1cb2" key="Logo Address" value="Custom/Themes/Standard/images/logo.png" attribute="" />
+    <item customtype="THEME" objectid="Standard" blogid="d9ddf03e-e7cc-418e-b31c-c597595e1cb2" key="Facebook account" value="BlogEngine.NET" attribute="" />
+    <item customtype="THEME" objectid="Standard" blogid="d9ddf03e-e7cc-418e-b31c-c597595e1cb2" key="Twitter account" value="blogenginenet" attribute="" />
+    <item customtype="THEME" objectid="Standard" blogid="d9ddf03e-e7cc-418e-b31c-c597595e1cb2" key="Google plus" value="u/0" attribute="" />
+    <item customtype="THEME" objectid="Standard" blogid="d9ddf03e-e7cc-418e-b31c-c597595e1cb2" key="Your RSS" value="syndication.axd" attribute="" />
+</CustomFields>

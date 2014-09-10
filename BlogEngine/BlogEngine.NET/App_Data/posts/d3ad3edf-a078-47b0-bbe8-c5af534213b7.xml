@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<post>
+  <author>edit</author>
+  <title>Example page post test</title>
+  <description>this is post to test the example page and a check the leading Extension for the development of that </description>
+  <content>&lt;p&gt;this is post to test the example page and a check the leading Extension for the development of that Blog .&lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;regards&amp;nbsp;&lt;br&gt;&lt;span style="font-style: italic; background-color: rgb(255, 255, 255);"&gt;Mohsin Nasir&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</content>
+  <ispublished>True</ispublished>
+  <isdeleted>False</isdeleted>
+  <iscommentsenabled>True</iscommentsenabled>
+  <pubDate>2014-09-03 15:30:00</pubDate>
+  <lastModified>2014-09-03 15:32:13</lastModified>
+  <raters>0</raters>
+  <rating>0</rating>
+  <slug>example-page-post-test</slug>
+  <tags />
+  <comments />
+  <categories />
+  <notifications />
+</post>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<post>
+  <author>Admin</author>
+  <title>image slider</title>
+  <description>this is test slider&amp;nbsp;test Carousel</description>
+  <content>&lt;p&gt;this is test slider&amp;nbsp;test Carousel &amp;nbsp;:P&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="color: rgb(58, 135, 173); font-family: 'Times New Roman'; font-size: medium; line-height: normal; background-color: rgb(217, 237, 247);"&gt;[CAROUSEL:Album1]&lt;/span&gt;&lt;/p&gt;</content>
+  <ispublished>True</ispublished>
+  <isdeleted>False</isdeleted>
+  <iscommentsenabled>True</iscommentsenabled>
+  <pubDate>2014-09-03 16:22:00</pubDate>
+  <lastModified>2014-09-09 17:54:41</lastModified>
+  <raters>0</raters>
+  <rating>0</rating>
+  <slug>image-slider</slug>
+  <tags>
+    <tag>tools</tag>
+  </tags>
+  <comments>
+    <comment id="aa464c43-16c3-4edd-a77d-f168f3db208a" parentid="00000000-0000-0000-0000-000000000000" approved="True" spam="False" deleted="False">
+      <date>2014-09-03 17:44:02</date>
+      <author>mohsin</author>
+      <email>mohsinnasir142@gmail.com</email>
+      <country />
+      <ip>::1</ip>
+      <moderatedby>Rule:authenticated</moderatedby>
+      <avatar />
+      <content>its good :P  :) ;)</content>
+    </comment>
+  </comments>
+  <categories />
+  <notifications />
+</post>

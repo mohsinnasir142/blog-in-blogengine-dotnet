@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<categories>
+    <category id="091e72af-a163-4554-a323-3f7c4cef18fd" description="contains the parts of machinery" parent="">Spare-parts</category>
+    <category id="9ca9649a-d458-4ec6-9915-866106f318e0" description="contains the post about the Mechanical tools i-e Drills , cutters , screws etc" parent="">tools</category>
+</categories>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<post>
+  <author>admin</author>
+  <title>asdasd</title>
+  <description>asdasd</description>
+  <content>asdasd</content>
+  <ispublished>True</ispublished>
+  <isdeleted>True</isdeleted>
+  <iscommentsenabled>True</iscommentsenabled>
+  <pubDate>2014-08-04 16:55:00</pubDate>
+  <lastModified>2014-08-04 16:55:11</lastModified>
+  <raters>0</raters>
+  <rating>0</rating>
+  <slug>asdasd</slug>
+  <tags />
+  <comments>
+    <comment id="2a4d5c3b-7f30-42ce-922f-34eb94d83547" parentid="00000000-0000-0000-0000-000000000000" approved="False" spam="False" deleted="False">
+      <date>2014-08-26 17:55:52</date>
+      <author>Hi </author>
+      <email>ms@adas.asdq</email>
+      <country />
+      <ip>::1</ip>
+      <avatar />
+      <content>asdasd</content>
+    </comment>
+  </comments>
+  <categories />
+  <notifications />
+</post>
